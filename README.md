@@ -79,3 +79,6 @@ The Excel file for this project is:
 ## Future Updates
 
 I plan to improve this project later by adding things like **Power Query, PivotTables and Slicers**.
+## Dashboard
+
+![Hospital ER Dashboard](Dashboard.png)
